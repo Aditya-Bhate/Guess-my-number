@@ -1,6 +1,8 @@
 <a ><img src="https://content.instructables.com/ORIG/FGE/F6F0/K1NVATVK/FGEF6F0K1NVATVK.jpg?auto=webp" align="right" height="140"/></a>
 # Guess-my-number 🎰
 
+Go To [**Game**](https://aditya-bhate.github.io/Guess-my-number/) ;D
+
 ## About :
 📌 A small quick game made using HTML,CSS and Javascript to manoeuvre DOM Manipulation .
 
