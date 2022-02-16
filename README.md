@@ -28,6 +28,6 @@ The HTML DOM model is constructed as a tree of Objects :
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
 #
-📣 Feel free to try the [**game**](https://aditya-bhate.github.io/Guess-my-number/) yourself!🤗
+🕹 Feel free to try the [**game**](https://aditya-bhate.github.io/Guess-my-number/) yourself!🤗
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
