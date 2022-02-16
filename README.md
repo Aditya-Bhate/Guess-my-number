@@ -1,10 +1,10 @@
 <a ><img src="https://content.instructables.com/ORIG/FGE/F6F0/K1NVATVK/FGEF6F0K1NVATVK.jpg?auto=webp" align="right" height="140"/></a>
 # Guess-my-number 🎰
 
-Go To [**Game**](https://aditya-bhate.github.io/Guess-my-number/) ;D
+Go To [**Game**](https://aditya-bhate.github.io/Guess-my-number/) 😉
 
 ## About :
-📌 A small quick game made using HTML,CSS and Javascript to manoeuvre DOM Manipulation .
+📌 A small quick single-player game made using HTML,CSS and Javascript to manoeuvre DOM Manipulation .
 
 📌 Have a look at the [**Official Docs**](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents)!
 
@@ -28,7 +28,6 @@ The HTML DOM model is constructed as a tree of Objects :
 <code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></code>
 #
-
-📣 Feel free to have a look at this repository !🤗
+📣 Feel free to try the [**game**](https://aditya-bhate.github.io/Guess-my-number/) yourself!🤗
 
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
